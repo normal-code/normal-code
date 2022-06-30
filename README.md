@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @normal-code
+- 👀 I’m interested in everything related to programation
+- 🌱 I’m currently learning basics on web-dev
+- 📫 How to reach me:
+- Telegram: [@Arc_I](https://t.me/Arc_I)
